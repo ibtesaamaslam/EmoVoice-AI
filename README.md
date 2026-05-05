@@ -1,6 +1,9 @@
-<div align="center">
 
-<br/>
+<img width="1536" height="1024" alt="ChatGPT Image May 5, 2026, 11_14_37 AM" src="https://github.com/user-attachments/assets/222a5e74-9860-43c3-9506-e4d0fb6e6a1b" />
+<br>
+
+
+<div align="center">
 
 # 🎙️ EmoVoice AI
 
